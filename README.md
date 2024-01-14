@@ -12,3 +12,5 @@
 5. Utilizar la implementación en la aplicación.
    1. En otra parte de la aplicación, se usa `{CLASE}.getInstance()` para obtener la instancia de la clase.
    2. Se establecen o recuperan las propiedades usando los `getters` y `setters`.
+
+Como referencia puede usarse [Singleton](https://www.youtube.com/watch?v=gocJeOHtj9w)
